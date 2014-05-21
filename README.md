@@ -9,7 +9,7 @@ Drone is a [Continuous Integration](http://en.wikipedia.org/wiki/Continuous_inte
 * [Configuration](http://drone.readthedocs.org/en/latest/setup.html)
 * [Getting Help](http://drone.readthedocs.org/en/latest/index.html#need-help)
 
-### Contributing
+### Contributing TEST
 
 Interested in contributing? Great! Please read our [contributor guidelines](http://drone.readthedocs.org/en/latest/contribute.html#pull-requests).
 
