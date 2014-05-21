@@ -11,7 +11,7 @@ Drone is a [Continuous Integration](http://en.wikipedia.org/wiki/Continuous_inte
 
 ### Contributing TEST
 
-Interested in contributing? Great! Please read our [contributor guidelines](http://drone.readthedocs.org/en/latest/contribute.html#pull-requests).
+Interested in contributing? Great! Please read our [contributor guidelines](http://drone.readthedocs.org/en/latest/contribute.html#pull-re
 
 ---
 
